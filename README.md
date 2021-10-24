@@ -4,11 +4,11 @@ ReadingIsGood is a simple online books web api application.  API, Domain and Inf
 
 The technologies used in this project are:
 
-.Net Core Web Api
-MongoDB
-HerOku
-SwaggerUI
-Microsoft Buit-In Dependency Injection
-JWT Bearer Auth
-Domain Driven Design
+.Net Core Web Api,
+MongoDB,
+HerOku,
+SwaggerUI,
+Microsoft Buit-In Dependency Injection,
+JWT Bearer Auth,
+Domain Driven Design,
 AutoMapper
