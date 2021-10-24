@@ -6,9 +6,10 @@ The technologies used in this project are:
 
 .Net Core Web Api,
 MongoDB,
-HerOku,
 SwaggerUI,
 Microsoft Buit-In Dependency Injection,
 JWT Bearer Auth,
 Domain Driven Design,
 AutoMapper
+
+The project can be runned with creating a database named ReadingIsGoodDB at MongoDB. I added the SwaggerUI test results images.
